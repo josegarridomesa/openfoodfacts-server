@@ -5,7 +5,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: da\n"
 "Project-Id-Version: openfoodfacts\n"
-"PO-Revision-Date: 2021-03-24 05:30\n"
+"PO-Revision-Date: 2021-04-02 10:48\n"
 "Language-Team: Danish\n"
 "Last-Translator: \n"
 "POT-Creation-Date: \n"
@@ -2344,6 +2344,10 @@ msgstr "En kollaborativ, gratis og åben database over ingredienser, ernæringsf
 msgctxt "site_name"
 msgid "Open Food Facts"
 msgstr "Open Food Facts"
+
+msgctxt "logo_site_name"
+msgid "Open Food Facts logo"
+msgstr "Open Food Facts logo"
 
 msgctxt "sort_by"
 msgid "Sort by"
@@ -5269,4 +5273,25 @@ msgstr "Importér ikke CodeOnline-data."
 msgctxt "overwrite_owner"
 msgid "Overwrite products that have a different owner on the public platform. Otherwise, products with a different owner will be skipped."
 msgstr "Overskriv produkter, som har en anden ejer på den offentlige platform, da produkter med en anden ejer ellers overspringes."
+
+msgctxt "data_source_database"
+msgid "Some of the data for the products of %s come from %s."
+msgstr "Nogle af dataene for %s-produkterne kommer fra %s."
+
+msgctxt "data_source_database_note_about_the_producers_platform"
+msgid "Manufacturers can use the Open Food Facts <a href=\"<producers_platform_url>\">free plaform for producers</a> to access and complete this data, and to obtain reports, analysis and product improvements opportunities (e.g. better Nutri-Score)."
+msgstr "Producenter kan bruge Open Food Facts' <a href=\"<producers_platform_url>\">grati producentsplaform</a> for at tilgå og udfylde disse data og til at få rapporter, analyser og produktforbedringsmuligheder (f.eks. bedre Nutri-Score)."
+
+msgctxt "data_source_database_equadis"
+msgid "The manufacturer %s uses %s to automatically transmit data and photos for its products."
+msgstr "Producenten %s bruger %s til automatisk at overføre data og fotos for sine produkter."
+
+msgctxt "image_other_type"
+msgid "Type of the product photo"
+msgstr "Produktfototype"
+
+# do not translate "front, ingredients, nutrition, packaging"
+msgctxt "image_other_type_description"
+msgid "If you use the same column on multiple lines to provide images URLs for a single product, you can use this field to indicate the type of the image: front, ingredients, nutrition or packaging."
+msgstr "Bruger du den samme kolonne på flere linjer til billed-URL'er for et enkelt produkt, kan dette felt bruges til at angive billedtypen: Front, ingredienser, ernæring eller emballage."
 

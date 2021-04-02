@@ -5,7 +5,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: he\n"
 "Project-Id-Version: openfoodfacts\n"
-"PO-Revision-Date: 2021-03-24 05:31\n"
+"PO-Revision-Date: 2021-04-02 16:31\n"
 "Language-Team: Hebrew\n"
 "Last-Translator: \n"
 "POT-Creation-Date: \n"
@@ -2345,6 +2345,10 @@ msgstr "מסד נתונים שיתופי, חופשי ופתוח של רכיבי�
 msgctxt "site_name"
 msgid "Open Food Facts"
 msgstr "Open Food Facts"
+
+msgctxt "logo_site_name"
+msgid "Open Food Facts logo"
+msgstr "הלוגו של Open Food Facts"
 
 msgctxt "sort_by"
 msgid "Sort by"
@@ -5270,4 +5274,25 @@ msgstr "לייבא נתוני CodeOnline."
 msgctxt "overwrite_owner"
 msgid "Overwrite products that have a different owner on the public platform. Otherwise, products with a different owner will be skipped."
 msgstr "לדרוס פריטים עם בעלות שונה בפלטפורמה הציבורית, אחרת, מוצרים עם בעלות שונה לא יעובדו."
+
+msgctxt "data_source_database"
+msgid "Some of the data for the products of %s come from %s."
+msgstr "חלק מנתוני המוצרים של %s הגיעו דרך %s."
+
+msgctxt "data_source_database_note_about_the_producers_platform"
+msgid "Manufacturers can use the Open Food Facts <a href=\"<producers_platform_url>\">free plaform for producers</a> to access and complete this data, and to obtain reports, analysis and product improvements opportunities (e.g. better Nutri-Score)."
+msgstr "יצרנים יכולים להשתמש ב<a href=\"<producers_platform_url>פלטפורמה החינמית ליצרנים</a> מבית Open Food Facts כדי לגשת ולהשלים את הנתונים האלו וכדי לקבל דוחות, ניתוחים והזדמנויות לשיפור המוצרים (למשל: לשפר את ה־Nutri-Score)."
+
+msgctxt "data_source_database_equadis"
+msgid "The manufacturer %s uses %s to automatically transmit data and photos for its products."
+msgstr "היצרן %s משתמש ב־%s כדי להעביר נתונים ותמונות של המוצרים שלו באופן אוטומטי."
+
+msgctxt "image_other_type"
+msgid "Type of the product photo"
+msgstr "סוג תמונת המוצר"
+
+# do not translate "front, ingredients, nutrition, packaging"
+msgctxt "image_other_type_description"
+msgid "If you use the same column on multiple lines to provide images URLs for a single product, you can use this field to indicate the type of the image: front, ingredients, nutrition or packaging."
+msgstr "אם השתמשת במספר שורות באותה העמודה כדי לציין כתובות של תמונות של אותו המוצר, נותן להשתמש בשדה הזה כדי לציין את סוג התמונה: חזית, רכיבים, תזונה או אריזה (front, ingredients, nutrition או packaging בהתאמה)."
 
